@@ -50,7 +50,7 @@ function showComments() {
 	let out = `<div class="comments__item">
 						<div class="comments__flex">
 							<div class="comments__img">
-								<img src="http://unvab.com/snow-free-html/assets/images/avatar-1.jpg">
+								<img src="avatar-1.jpg">
 							</div>
 							<div class="comments__item__inner">
 								<div class="comments__information">
@@ -64,7 +64,7 @@ function showComments() {
 						<div class="comments__small__item">
 							<div class="comments__flex">
 								<div class="comments__img">
-									<img src="	http://unvab.com/snow-free-html/assets/images/avatar-2.jpg">
+									<img src="avatar-2.jpg">
 								</div>
 								<div class="comments__item__inner">
 									<div class="comments__information">
@@ -80,7 +80,7 @@ function showComments() {
 					<div class="comments__item">
 						<div class="comments__flex">
 							<div class="comments__img">
-								<img src="http://unvab.com/snow-free-html/assets/images/avatar-3.jpg">
+								<img src="avatar-3.jpg">
 							</div>
 							<div class="comments__item__inner">
 								<div class="comments__information">
